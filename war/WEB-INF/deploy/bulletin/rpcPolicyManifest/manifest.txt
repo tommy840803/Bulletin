@@ -1,0 +1,3 @@
+# Module bulletin
+# RPC service class, partial path of RPC policy file
+com.nutc.client.GreetingService, 86EB0392656D4C74E428AED097754D4D.gwt.rpc
