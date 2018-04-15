@@ -7,7 +7,7 @@ Back  End : Java servlet
 Database  : Datastore
 
 
-Below is the link to web site!
+Web site!
 http://1-dot-justtest-146807.appspot.com/#
 
 
