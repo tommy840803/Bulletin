@@ -15,4 +15,22 @@ home page :
 
 ![image](./home.PNG)
 
+content page :
 
+![image](./content.PNG)
+
+edit page :
+
+![image](./edit.PNG)
+
+add page :
+
+![image](./add.PNG)
+
+search page :
+
+![image](./search.PNG)
+
+all content page :
+
+![image](./all-content.PNG)
