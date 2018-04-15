@@ -1,13 +1,13 @@
 Platform  : Google Cloud Platform 
 
-Front End : HTML , CSS , AngularJS 1.5 ,jQuery
+Front End : HTML , CSS , AngularJS 1.5 , jQuery
 
-Back  End : Java servlet
+Back  End : Java Servlet
 
 Database  : Datastore
 
 
-Web site! 
+Web Site! 
 http://1-dot-justtest-146807.appspot.com/#
 
 
