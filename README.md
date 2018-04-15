@@ -12,6 +12,6 @@ http://1-dot-justtest-146807.appspot.com/#
 
 
 home page :
-![image](./home.PNG = 300*200)
+![image](./home.PNG = 300x200)
 
 
